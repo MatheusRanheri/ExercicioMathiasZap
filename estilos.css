@@ -1,0 +1,43 @@
+html,body{
+    height: 100%;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tudo{
+    background-color: black;
+    height: 100%;
+    width: 600px;
+    border-radius: 5px;
+}
+
+.meuchat{
+    color: white;
+}
+
+.pontos{
+    fill: white;
+    width: 8px;
+}
+
+.direcaoInicio{
+    margin: 0 10px;
+    border-bottom: 1px dotted white;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.oi{
+    color: white;
+    background-color: #3b4a54;
+    width: fit-content;
+    border-radius: 5px;
+}
